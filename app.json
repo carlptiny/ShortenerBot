@@ -5,7 +5,7 @@
         "telegram",
         "ShortenerBot"
     ],
-    "repository": "https://github.com/HuzunluArtemis/ShortenerBot",
+    "repositório" :"https://github.com/carlptiny/ShortenerBot",
     "env": {
         "APP_ID": {
             "description": "Get this value from https://my.telegram.org",
